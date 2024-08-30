@@ -4,7 +4,7 @@
  * and provides a menu for starting a new game or quitting.
  * 
  * @author Max Bui 101261646
- * @version April 10, 2024
+ * @version March 10, 2024
  */
 
 import javax.swing.*;
